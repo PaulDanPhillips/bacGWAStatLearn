@@ -1,7 +1,7 @@
 Predictor:
-    /Users/paulmacos/Desktop/GWASgit/bacGWAStatLearn/example/BalancedArbitrayPredictor_Sim1.txt
+    bacGWAStatLearn/example/BalancedArbitrayPredictor_Sim1.txt
 Response:
-    /Users/paulmacos/Desktop/GWASgit/bacGWAStatLearn/example/BalancedArbitrary_Response_1.txt
+    bacGWAStatLearn/example/BalancedArbitrary_Response_1.txt
 chi2Correct:
     True
 FDRchi2Thresh:
