@@ -24,11 +24,12 @@ bacGWAStatLearn --config Sim1.yaml --cores 4
 
 * You will edit the Sim1.yaml file from the example directory.
 * **Predictor**
-* The absolute or relative path to your genetic feature matrix will take the place of """bacGWAStatLearn/example/BalancedArbitrayPredictor_Sim1.txt"""
-**Response**
-* The absolute or relative path to your response phenotype vector will take the place of """bacGWAStatLearn/example/BalancedArbitrary_Response_1.txt"""
+    * The absolute or relative path to your genetic feature matrix will take the place of """bacGWAStatLearn/example/BalancedArbitrayPredictor_Sim1.txt"""
+* **Response**
+    * The absolute or relative path to your response phenotype vector will take the place of """bacGWAStatLearn/example/BalancedArbitrary_Response_1.txt"""
 **chi2Correct**
-* The user need to decie if they want to the chi2 prefilter step to be corrected via false-discovery-rate or not (only True or False)
-**FDRchi2Thresh**
-* The user needs to decide what the FDR chi2 threshold is for removing genetic features based on this chi2 test is. 
+* ***chi2Correct**
+    * The user need to decie if they want to the chi2 prefilter step to be corrected via false-discovery-rate or not (only True or False)
+* **FDRchi2Thresh**
+    * The user needs to decide what the FDR chi2 threshold is for removing genetic features based on this chi2 test is. 
 
