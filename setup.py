@@ -8,7 +8,7 @@ setup(
     description="A machine learning approach for conducting genome wide association studies (GWAS) on bacteria",
     name="bacGWAStatLearn",
     packages=find_packages(include=["bacGWAStatLearn", "bacGWAStatLearn.*"]),
-    version="0.1.0",
+    version="0.1.1",
     install_requires=['pandas', 'scipy', 'statsmodels','numpy==1.23.5', 'scikit-learn', 'xgboost', 'matplotlib', 'joblib', 'snakemake', 'Boruta', 'shap', 'seaborn','plotnine'],
     # packages=["bacGWASim"],
     entry_points="""
