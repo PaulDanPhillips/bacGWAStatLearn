@@ -2,3 +2,6 @@ bacGWAStatLearn.egg-info/
 dist/
 build/
 example/PackageTroubleShoot.ipynb
+.snakemake
+__pycache__/
+bacGWAStatLearn/__pycache__/

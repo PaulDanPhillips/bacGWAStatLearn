@@ -1,6 +1,8 @@
+LICENSE
 README.md
 setup.py
 bacGWAStatLearn/ClassIndexing.py
+bacGWAStatLearn/Snakefile
 bacGWAStatLearn/__init__.py
 bacGWAStatLearn/main.py
 bacGWAStatLearn.egg-info/PKG-INFO

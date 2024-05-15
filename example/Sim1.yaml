@@ -1,7 +1,7 @@
 Predictor:
-    bacGWAStatLearn/example/BalancedArbitrayPredictor_Sim1.txt
+    BalancedArbitrayPredictor_Sim1.txt
 Response:
-    bacGWAStatLearn/example/BalancedArbitrary_Response_1.txt
+    BalancedArbitrary_Response_1.txt
 chi2Correct:
     True
 FDRchi2Thresh:
