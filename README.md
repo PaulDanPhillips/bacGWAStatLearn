@@ -13,7 +13,7 @@ git clone https://github.com/PaulDanPhillips/bacGWAStatLearn.git
 ```bash
 cd bacGWAStatLearn/example
 ```
-### Run the example data
+### Run the example data (user needs to pay attention to how many cores they have available and want to use)
 ```bash
 bacGWAStatLearn --config Sim1.yaml --cores 4
 ```
