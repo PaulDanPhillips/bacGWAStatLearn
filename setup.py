@@ -9,7 +9,7 @@ setup(
     name="bacGWAStatLearn",
     packages=find_packages(include=["bacGWAStatLearn", "bacGWAStatLearn.*", "bacGWAStatLearn.Snakefile"]),
     version="0.1.3",
-    package_data={'bacGWAStatLearn': ['Snakefile']},
+    package_data={'bacGWAStatLearn': ['Snakefile', 'gwas.yml']},
     install_requires=['pandas', 'scipy', 'statsmodels','numpy==1.23.5', 'scikit-learn', 'xgboost', 'matplotlib', 'joblib', 'snakemake', 'Boruta', 'shap', 'seaborn','plotnine'],
     # py_modules=['Snakefile', 'ClassIndexing.py'],
     url="https://github.com/PaulDanPhillips/bacGWAStatLearn",
