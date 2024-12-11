@@ -5,7 +5,7 @@
 pip install bacGWAStatLearn
 ```
 ## Use
-### Downlaod example from GitHub
+### Download example from GitHub
 ```bash
 git clone https://github.com/PaulDanPhillips/bacGWAStatLearn.git
 ```
